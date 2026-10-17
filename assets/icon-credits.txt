@@ -16,3 +16,8 @@ License: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
 
 AI sparkles
 An original vector symbol created for this portfolio, representing AI-assisted engineering.
+
+Employer logos / 就职公司图标
+DiDi official site icon: https://website.didiglobal.com/DDlogo.ico
+Weibo official site icon: https://weibo.com/favicon.ico
+The company marks are shown beside the corresponding employment entries.
