@@ -201,8 +201,8 @@ html[lang="en"] .contact-section p{line-height:1.9}
 @media(max-width:900px) and (min-width:701px){.about-art{aspect-ratio:2/3}}
 @media(max-width:370px){html[lang="en"] .header .brand{font-size:12px;letter-spacing:-.5px}}
 
-/* Keep employer marks aligned with translated company names. */
+/* A restrained blue treatment keeps the employer marks in the same visual system. */
 .company-identity{display:flex;align-items:center;min-width:0;gap:10px}
-.company-logo{display:grid;place-items:center;width:34px;height:34px;flex:0 0 34px;overflow:hidden;border:1px solid #3b4f6b;border-radius:7px;background:#fff}
-.company-logo img{display:block;width:28px;height:28px;object-fit:contain}
-@media(max-width:370px){.company-identity{gap:7px}.company-logo{width:30px;height:30px;flex-basis:30px}.company-logo img{width:25px;height:25px}}
+.company-logo{display:grid;place-items:center;width:32px;height:32px;flex:0 0 32px;overflow:hidden;border:1px solid #294463;border-radius:7px;background:#14243b}
+.company-logo img{display:block;width:25px;height:25px;object-fit:contain}
+@media(max-width:370px){.company-identity{gap:7px}.company-logo{width:29px;height:29px;flex-basis:29px}.company-logo img{width:23px;height:23px}}
